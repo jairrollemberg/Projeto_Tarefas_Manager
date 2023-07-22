@@ -122,7 +122,7 @@ public class MainScreen extends javax.swing.JFrame {
 
         jLabelToolbarSubTitle.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         jLabelToolbarSubTitle.setForeground(new java.awt.Color(255, 255, 255));
-        jLabelToolbarSubTitle.setText("Anote tudo não esqueça de nada");
+        jLabelToolbarSubTitle.setText("Organize seus projetos e tarefas!");
 
         javax.swing.GroupLayout jPanelToolbarLayout = new javax.swing.GroupLayout(jPanelToolbar);
         jPanelToolbar.setLayout(jPanelToolbarLayout);

@@ -159,7 +159,7 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Anote tudo n&#xe3;o esque&#xe7;a de nada"/>
+            <Property name="text" type="java.lang.String" value="Organize seus projetos e tarefas!"/>
           </Properties>
         </Component>
       </SubComponents>
